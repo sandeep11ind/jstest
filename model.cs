@@ -1,7 +1,7 @@
 using System.IO;
 public  class Model1
 {
-    public Model()
+    public Model1()
     {
         
     }
